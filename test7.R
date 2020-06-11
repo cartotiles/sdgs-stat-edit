@@ -1,7 +1,6 @@
 #######################################
-#test 4
-# by Taro Ubukawa taro.ubukawa@un.org
-# 10 July 2020
+#test 7
+# 10 June 2020
 #######################################
 #Please store the source data in src folder.
 #Please prepare a folder for graph.
